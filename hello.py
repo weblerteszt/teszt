@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-print('Helló világ!')
+message = 'Szép napot!'
+print(message)
