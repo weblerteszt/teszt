@@ -12,6 +12,8 @@ class Example:
 ex = Example()
 ey = Example()
 
+print('Kakukk')
+
 ex.bruno = ['répa']
 
 print(ex.bruno[0])
