@@ -34,3 +34,5 @@ message2 = 'napot'
 message3 = '!'
 message = message1 + message2 + message3
 print(message)
+
+print('Teszt')
